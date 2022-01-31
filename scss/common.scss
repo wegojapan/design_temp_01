@@ -127,14 +127,23 @@ body {
 	// @include mq(min_max_w, 768px, 1023px) {}
 }
 
-
+// header
+//----------------------------------------------//
 header {
     background-color: #ebebeb;
     height: 10vh;
 }
+
+// #con_page
+//----------------------------------------------//
+
 #con_page {
     height: 30vh;
 }
+
+// footer
+//----------------------------------------------//
+
 
 footer {
     background-color: #ddd;
